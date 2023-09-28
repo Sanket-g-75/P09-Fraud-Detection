@@ -1,13 +1,13 @@
 # P09-Fraud-Detection
 
 ## Problem Statement : 
-Built a Model Predicting Fradulent Transactions for a Financial Company 
+Built a Model Predicting Fraudulent Transactions for a Financial Company 
 ## Project Steps
 ### EDA
-Explored multiple columns of the dataset which uncovered multiple insights regarding the Fradulent Transactions
+Explored multiple columns of the dataset which uncovered multiple insights regarding the Fraudulent Transactions
 ### Data Preprocessing
-Preprocessed the Data so as to work with Model. Scaled all the values, encoded all the categorical variables and so on
+Preprocessed the Data so as to work with the Model. Scaled all the values, encoded all the categorical variables, and so on
 ### Model
-Built a Random Forest Classifier
+Built a Random Forest Classifier with 100 estimators and max depth of 5
 #### Oversampling the Data
-After analysing the Data, found out that one of the class was imbalanced so used a Oversampling Library SMOTEENN for Data Augmentation
+After analyzing the Data, found out that one of the classes was imbalanced so used an Oversampling Library SMOTEENN for Data Augmentation
