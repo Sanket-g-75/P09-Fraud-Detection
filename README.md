@@ -10,4 +10,4 @@ Preprocessed the Data so as to work with the Model. Scaled all the values, encod
 ### Model
 Built a Random Forest Classifier with 100 estimators and max depth of 5
 #### Oversampling the Data
-After analyzing the Data, found out that one of the classes was imbalanced so used an Oversampling Library SMOTEENN for Data Augmentation
+After analyzing the Data, found out that one of the classes were imbalanced so used an Oversampling Library SMOTEENN for Data Augmentation
